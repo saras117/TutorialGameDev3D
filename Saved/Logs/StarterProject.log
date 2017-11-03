@@ -421,3 +421,90 @@ LogInit: Object subsystem initialized
 [2017.11.03-12.57.07:399][906]LogEditorTransaction: Undo Delete current selection
 [2017.11.03-12.58.17:100][ 12]Cmd: TRANSACTION UNDO
 [2017.11.03-12.58.17:101][ 12]LogEditorTransaction: Undo Delete current selection
+[2017.11.03-13.01.56:149][390]LogSavePackage: Save=59.75ms
+[2017.11.03-13.01.56:149][390]LogSavePackage: Moving 'D:/Workspace/Unreal/StarterProject/Saved/Level1_Auto26FF2480C412B34356FC86DB62C29A9BB.tmp' to 'D:/Workspace/Unreal/StarterProject/Saved/Autosaves/Game/StarterContent/Maps/Level1_Auto2.umap'
+[2017.11.03-13.01.56:150][390]LogSavePackage: Display: Finished SavePackage D:/Workspace/Unreal/StarterProject/Saved/Autosaves/Game/StarterContent/Maps/Level1_Auto2.umap
+[2017.11.03-13.01.56:151][390]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Level1' took 0.087
+[2017.11.03-13.01.56:151][390]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.087
+[2017.11.03-13.10.03:937][571]LogEditorTransaction: Undo Delete current selection
+[2017.11.03-13.11.31:868][643]LogUObjectGlobals: Warning: Failed to find object 'Object None.No Results found'
+[2017.11.03-13.11.38:402][ 29]EditorErrors: New page: Actor attachment
+[2017.11.03-13.11.40:577][158]EditorErrors: New page: Actor attachment
+[2017.11.03-13.11.42:134][251]EditorErrors: New page: Actor attachment
+[2017.11.03-13.12.30:426][ 85]LogEditorTransaction: Undo Delete current selection
+[2017.11.03-13.12.30:834][107]LogEditorTransaction: Undo Move Node
+[2017.11.03-13.12.31:293][133]LogEditorTransaction: Undo Add Node
+[2017.11.03-13.12.31:750][159]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.03-13.12.32:264][181]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.03-13.12.34:705][326]LogEditorTransaction: Redo Clicking on Actors
+[2017.11.03-13.12.34:889][335]LogEditorTransaction: Redo Clicking on Actors
+[2017.11.03-13.12.35:183][351]LogEditorTransaction: Redo Add Node
+[2017.11.03-13.12.35:525][370]LogEditorTransaction: Redo Move Node
+[2017.11.03-13.12.35:738][381]LogEditorTransaction: Redo Delete current selection
+[2017.11.03-13.13.11:397][459]LogEditorTransaction: Undo Delete current selection
+[2017.11.03-13.13.12:182][504]LogEditorTransaction: Undo Create Pin Link
+[2017.11.03-13.13.12:604][529]LogEditorTransaction: Undo Create Pin Link
+[2017.11.03-13.13.13:460][580]LogEditorTransaction: Undo Move Node
+[2017.11.03-13.13.13:903][605]LogEditorTransaction: Undo Add Node
+[2017.11.03-13.13.14:313][628]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.03-13.13.14:697][649]LogEditorTransaction: Undo Delete current selection
+[2017.11.03-13.13.45:219][465]BlueprintLog: New page: Compile Level1
+[2017.11.03-13.13.45:272][465]LogBlueprint: Error: [Compiler PersistentLevel.Level1] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.11.03-13.13.45:272][465]LogBlueprint: Error: [Compiler PersistentLevel.Level1] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2017.11.03-13.13.45:334][465]LogBlueprint: Warning: [Compiler PersistentLevel.Level1] [2892.34] Compile of PersistentLevel.Level1 failed. 2 Fatal Issue(s) 0 Warning(s) [in 115 ms] (/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1)
+[2017.11.03-13.14.03:710][559]BlueprintLog: New page: Compile Level1
+[2017.11.03-13.14.05:247][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="D:/Workspace/Unreal/StarterProject/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.03-13.14.05:350][641]LogSavePackage: Save=85.42ms
+[2017.11.03-13.14.05:350][641]LogSavePackage: Moving 'D:/Workspace/Unreal/StarterProject/Saved/Level18EB0860646EEFAF2047AF2BE7DF2F66C.tmp' to 'D:/Workspace/Unreal/StarterProject/Content/StarterContent/Maps/Level1.umap'
+[2017.11.03-13.14.05:352][641]LogSavePackage: Display: Finished SavePackage D:/Workspace/Unreal/StarterProject/Content/StarterContent/Maps/Level1.umap
+[2017.11.03-13.14.05:372][641]LogFileHelpers: Saving map 'Level1' took 0.225
+[2017.11.03-13.14.06:930][732]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.03-13.14.07:550][732]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.14.07:559][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.03-13.14.07:642][732]PIE: New page: PIE session: Level1 (Nov 4, 2017, 3:14:07 AM)
+[2017.11.03-13.14.07:666][732]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2017.11.03-13.14.07:755][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.088292s)
+[2017.11.03-13.14.07:756][732]LogAIModule: Creating AISystem for world Level1
+[2017.11.03-13.14.07:756][732]LogPlayLevel: PIE: World Init took: (0.001532s)
+[2017.11.03-13.14.07:771][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.117532s)
+[2017.11.03-13.14.07:808][732]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.03-13.14.07:919][732]LogInit: FAudioDevice initialized.
+[2017.11.03-13.14.07:995][732]LogLoad: Game class is 'GameModeBase'
+[2017.11.03-13.14.08:128][732]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.11.03-20.14.08
+[2017.11.03-13.14.08:157][732]LogWorld: Bringing up level for play took: 0.045348
+[2017.11.03-13.14.08:401][732]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 11 classes and 0 folders.
+[2017.11.03-13.14.08:445][732]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 1.354
+[2017.11.03-13.14.08:446][732]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.14.36:410][338]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.14.36:490][338]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.14.41:975][655]LogEditorActor: Deleted Actor: Blueprint_CeilingLight_C
+[2017.11.03-13.14.42:008][655]LogEditorActor: Deleted 1 Actors (0.139 secs)
+[2017.11.03-13.14.42:763][700]LogEditorActor: Deleted Actor: Blueprint_CeilingLight2_C
+[2017.11.03-13.14.42:782][700]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2017.11.03-13.15.13:752][532]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.03-13.15.13:763][532]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.15.13:764][532]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.03-13.15.13:764][532]PIE: New page: PIE session: Level1 (Nov 4, 2017, 3:15:13 AM)
+[2017.11.03-13.15.13:764][532]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2017.11.03-13.15.13:806][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041653s)
+[2017.11.03-13.15.13:807][532]LogAIModule: Creating AISystem for world Level1
+[2017.11.03-13.15.13:808][532]LogPlayLevel: PIE: World Init took: (0.001820s)
+[2017.11.03-13.15.13:808][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.044066s)
+[2017.11.03-13.15.13:840][532]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.03-13.15.13:871][532]LogInit: FAudioDevice initialized.
+[2017.11.03-13.15.13:908][532]LogLoad: Game class is 'GameModeBase'
+[2017.11.03-13.15.13:910][532]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.11.03-20.15.13
+[2017.11.03-13.15.13:910][532]LogWorld: Bringing up level for play took: 0.000891
+[2017.11.03-13.15.13:911][532]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 0.82
+[2017.11.03-13.15.13:911][532]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.15.19:041][838]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.15.19:082][838]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.18.15:314][836]LogEditorTransaction: Undo Create Pin Link
+[2017.11.03-13.18.16:160][886]LogEditorTransaction: Undo Delete current selection
+[2017.11.03-13.18.16:525][906]LogEditorTransaction: Undo Move Node
+[2017.11.03-13.18.16:867][925]LogEditorTransaction: Undo Add Node
+[2017.11.03-13.18.17:227][945]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.03-13.18.17:634][968]LogEditorTransaction: Undo Create Pin Link
+[2017.11.03-13.18.18:211][  2]LogEditorTransaction: Undo Add Node
+[2017.11.03-13.18.18:791][ 35]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.03-13.18.19:175][ 56]LogEditorTransaction: Undo Delete current selection
