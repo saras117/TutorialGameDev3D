@@ -508,3 +508,164 @@ LogInit: Object subsystem initialized
 [2017.11.03-13.18.18:211][  2]LogEditorTransaction: Undo Add Node
 [2017.11.03-13.18.18:791][ 35]LogEditorTransaction: Undo Clicking on Actors
 [2017.11.03-13.18.19:175][ 56]LogEditorTransaction: Undo Delete current selection
+[2017.11.03-13.24.40:390][746]LogBlueprint: Error: [Compiler PersistentLevel.Level1] This blueprint (self) is not a PointLight, therefore ' Target ' must have a connection.
+[2017.11.03-13.24.40:493][746]LogBlueprint: Error: [Compiler PersistentLevel.Level1] Variable node  Get PointLightComponent  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2017.11.03-13.24.40:496][746]LogBlueprint: Warning: [Compiler PersistentLevel.Level1] [3547.51] Compile of PersistentLevel.Level1 failed. 2 Fatal Issue(s) 0 Warning(s) [in 111 ms] (/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1)
+[2017.11.03-13.24.40:575][746]LogSavePackage: Save=194.25ms
+[2017.11.03-13.24.40:575][746]LogSavePackage: Moving 'D:/Workspace/Unreal/StarterProject/Saved/Level1_Auto3725CB648480E462D820B0D904DCB9076.tmp' to 'D:/Workspace/Unreal/StarterProject/Saved/Autosaves/Game/StarterContent/Maps/Level1_Auto3.umap'
+[2017.11.03-13.24.40:586][746]LogSavePackage: Display: Finished SavePackage D:/Workspace/Unreal/StarterProject/Saved/Autosaves/Game/StarterContent/Maps/Level1_Auto3.umap
+[2017.11.03-13.24.40:587][746]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Level1' took 0.229
+[2017.11.03-13.24.40:587][746]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.229
+[2017.11.03-13.25.38:118][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="D:/Workspace/Unreal/StarterProject/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.03-13.25.38:209][315]LogSavePackage: Save=73.10ms
+[2017.11.03-13.25.38:210][315]LogSavePackage: Moving 'D:/Workspace/Unreal/StarterProject/Saved/Level1073BD527461831F1F80C75B9E8E3F9E8.tmp' to 'D:/Workspace/Unreal/StarterProject/Content/StarterContent/Maps/Level1.umap'
+[2017.11.03-13.25.38:210][315]LogSavePackage: Display: Finished SavePackage D:/Workspace/Unreal/StarterProject/Content/StarterContent/Maps/Level1.umap
+[2017.11.03-13.25.38:222][315]LogFileHelpers: Saving map 'Level1' took 0.221
+[2017.11.03-13.25.38:899][346]BlueprintLog: New page: Compile Level1
+[2017.11.03-13.25.40:470][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="D:/Workspace/Unreal/StarterProject/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.03-13.25.40:554][431]LogSavePackage: Save=67.13ms
+[2017.11.03-13.25.40:554][431]LogSavePackage: Moving 'D:/Workspace/Unreal/StarterProject/Saved/Level15FA3F91145F704BA9223A08915609F56.tmp' to 'D:/Workspace/Unreal/StarterProject/Content/StarterContent/Maps/Level1.umap'
+[2017.11.03-13.25.40:555][431]LogSavePackage: Display: Finished SavePackage D:/Workspace/Unreal/StarterProject/Content/StarterContent/Maps/Level1.umap
+[2017.11.03-13.25.40:565][431]LogFileHelpers: Saving map 'Level1' took 0.157
+[2017.11.03-13.25.41:621][494]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.03-13.25.41:629][494]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.25.41:629][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.03-13.25.41:629][494]PIE: New page: PIE session: Level1 (Nov 4, 2017, 3:25:41 AM)
+[2017.11.03-13.25.41:629][494]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2017.11.03-13.25.41:636][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006528s)
+[2017.11.03-13.25.41:637][494]LogAIModule: Creating AISystem for world Level1
+[2017.11.03-13.25.41:637][494]LogPlayLevel: PIE: World Init took: (0.000950s)
+[2017.11.03-13.25.41:637][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.007754s)
+[2017.11.03-13.25.41:657][494]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.03-13.25.41:689][494]LogInit: FAudioDevice initialized.
+[2017.11.03-13.25.41:736][494]LogLoad: Game class is 'GameModeBase'
+[2017.11.03-13.25.41:737][494]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.11.03-20.25.41
+[2017.11.03-13.25.41:737][494]LogWorld: Bringing up level for play took: 0.000844
+[2017.11.03-13.25.41:738][494]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 0.648
+[2017.11.03-13.25.41:739][494]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.25.49:764][845]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.25.49:809][845]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.25.51:406][901]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.03-13.25.51:416][901]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.25.51:417][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.03-13.25.51:417][901]PIE: New page: PIE session: Level1 (Nov 4, 2017, 3:25:51 AM)
+[2017.11.03-13.25.51:417][901]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2017.11.03-13.25.51:421][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004619s)
+[2017.11.03-13.25.51:422][901]LogAIModule: Creating AISystem for world Level1
+[2017.11.03-13.25.51:422][901]LogPlayLevel: PIE: World Init took: (0.000995s)
+[2017.11.03-13.25.51:423][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.006016s)
+[2017.11.03-13.25.51:441][901]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.03-13.25.51:470][901]LogInit: FAudioDevice initialized.
+[2017.11.03-13.25.51:516][901]LogLoad: Game class is 'GameModeBase'
+[2017.11.03-13.25.51:517][901]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.11.03-20.25.51
+[2017.11.03-13.25.51:517][901]LogWorld: Bringing up level for play took: 0.000845
+[2017.11.03-13.25.51:518][901]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 0.427
+[2017.11.03-13.25.51:518][901]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.25.56:048][172]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.25.56:091][172]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.25.57:987][242]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.03-13.25.57:999][242]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.25.57:999][242]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.03-13.25.58:000][242]PIE: New page: PIE session: Level1 (Nov 4, 2017, 3:25:57 AM)
+[2017.11.03-13.25.58:000][242]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2017.11.03-13.25.58:003][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003723s)
+[2017.11.03-13.25.58:004][242]LogAIModule: Creating AISystem for world Level1
+[2017.11.03-13.25.58:004][242]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2017.11.03-13.25.58:004][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.004882s)
+[2017.11.03-13.25.58:023][242]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.03-13.25.58:052][242]LogInit: FAudioDevice initialized.
+[2017.11.03-13.25.58:094][242]LogLoad: Game class is 'GameModeBase'
+[2017.11.03-13.25.58:095][242]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.11.03-20.25.58
+[2017.11.03-13.25.58:095][242]LogWorld: Bringing up level for play took: 0.000822
+[2017.11.03-13.25.58:096][242]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 1.006
+[2017.11.03-13.25.58:096][242]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.26.01:622][453]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.26.01:678][453]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.27.26:212][853]LogEditorTransaction: Undo Create Pin Link
+[2017.11.03-13.27.26:770][882]LogEditorTransaction: Undo Create Pin Link
+[2017.11.03-13.27.27:248][907]LogEditorTransaction: Undo Move Node
+[2017.11.03-13.27.27:674][931]LogEditorTransaction: Undo Add Node
+[2017.11.03-13.27.28:002][949]LogEditorTransaction: Undo Delete current selection
+[2017.11.03-13.27.29:172][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="D:/Workspace/Unreal/StarterProject/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.03-13.27.29:261][ 12]LogSavePackage: Save=70.01ms
+[2017.11.03-13.27.29:261][ 12]LogSavePackage: Moving 'D:/Workspace/Unreal/StarterProject/Saved/Level1BEA1B179444D0B59F7CCB1A743C610B6.tmp' to 'D:/Workspace/Unreal/StarterProject/Content/StarterContent/Maps/Level1.umap'
+[2017.11.03-13.27.29:262][ 12]LogSavePackage: Display: Finished SavePackage D:/Workspace/Unreal/StarterProject/Content/StarterContent/Maps/Level1.umap
+[2017.11.03-13.27.29:272][ 12]LogFileHelpers: Saving map 'Level1' took 0.167
+[2017.11.03-13.27.36:589][391]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.03-13.27.36:601][391]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.27.36:601][391]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.03-13.27.36:601][391]PIE: New page: PIE session: Level1 (Nov 4, 2017, 3:27:36 AM)
+[2017.11.03-13.27.36:601][391]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2017.11.03-13.27.36:605][391]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003793s)
+[2017.11.03-13.27.36:606][391]LogAIModule: Creating AISystem for world Level1
+[2017.11.03-13.27.36:606][391]LogPlayLevel: PIE: World Init took: (0.000936s)
+[2017.11.03-13.27.36:606][391]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.004962s)
+[2017.11.03-13.27.36:626][391]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.03-13.27.36:660][391]LogInit: FAudioDevice initialized.
+[2017.11.03-13.27.36:696][391]LogLoad: Game class is 'GameModeBase'
+[2017.11.03-13.27.36:697][391]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.11.03-20.27.36
+[2017.11.03-13.27.36:697][391]LogWorld: Bringing up level for play took: 0.000870
+[2017.11.03-13.27.36:698][391]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 -0.392
+[2017.11.03-13.27.36:699][391]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.27.40:480][617]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.27.40:526][617]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.27.42:880][748]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.03-13.27.42:888][748]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.27.42:888][748]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.03-13.27.42:888][748]PIE: New page: PIE session: Level1 (Nov 4, 2017, 3:27:42 AM)
+[2017.11.03-13.27.42:888][748]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2017.11.03-13.27.42:896][748]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007776s)
+[2017.11.03-13.27.42:897][748]LogAIModule: Creating AISystem for world Level1
+[2017.11.03-13.27.42:897][748]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2017.11.03-13.27.42:897][748]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.008763s)
+[2017.11.03-13.27.42:916][748]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.03-13.27.42:946][748]LogInit: FAudioDevice initialized.
+[2017.11.03-13.27.42:997][748]LogLoad: Game class is 'GameModeBase'
+[2017.11.03-13.27.42:998][748]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.11.03-20.27.42
+[2017.11.03-13.27.42:998][748]LogWorld: Bringing up level for play took: 0.000853
+[2017.11.03-13.27.42:999][748]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 -0.092
+[2017.11.03-13.27.42:999][748]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.27.50:464][195]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.27.50:510][195]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.30.54:151][  9]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.03-13.32.05:447][155]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.03-13.32.05:460][155]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.32.05:461][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.03-13.32.05:461][155]PIE: New page: PIE session: Level1 (Nov 4, 2017, 3:32:05 AM)
+[2017.11.03-13.32.05:461][155]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2017.11.03-13.32.05:465][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003979s)
+[2017.11.03-13.32.05:465][155]LogAIModule: Creating AISystem for world Level1
+[2017.11.03-13.32.05:466][155]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2017.11.03-13.32.05:466][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.005119s)
+[2017.11.03-13.32.05:485][155]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.03-13.32.05:516][155]LogInit: FAudioDevice initialized.
+[2017.11.03-13.32.05:551][155]LogLoad: Game class is 'GameModeBase'
+[2017.11.03-13.32.05:553][155]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.11.03-20.32.05
+[2017.11.03-13.32.05:553][155]LogWorld: Bringing up level for play took: 0.000872
+[2017.11.03-13.32.05:554][155]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 0.463
+[2017.11.03-13.32.05:554][155]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.32.06:915][236]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.32.06:986][236]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.32.19:111][930]LogEditorActor: Deleted Actor: Blueprint_CeilingLight2_C
+[2017.11.03-13.32.19:129][930]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2017.11.03-13.32.19:876][975]LogEditorActor: Deleted Actor: Blueprint_CeilingLight_C
+[2017.11.03-13.32.19:893][975]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2017.11.03-13.33.35:790][217]BlueprintLog: New page: Compile Level1
+[2017.11.03-13.33.37:110][284]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.03-13.33.37:118][284]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.33.37:119][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.03-13.33.37:119][284]PIE: New page: PIE session: Level1 (Nov 4, 2017, 3:33:37 AM)
+[2017.11.03-13.33.37:119][284]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2017.11.03-13.33.37:126][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007144s)
+[2017.11.03-13.33.37:127][284]LogAIModule: Creating AISystem for world Level1
+[2017.11.03-13.33.37:127][284]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2017.11.03-13.33.37:127][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.008197s)
+[2017.11.03-13.33.37:144][284]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.03-13.33.37:175][284]LogInit: FAudioDevice initialized.
+[2017.11.03-13.33.37:216][284]LogLoad: Game class is 'GameModeBase'
+[2017.11.03-13.33.37:217][284]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2017.11.03-20.33.37
+[2017.11.03-13.33.37:218][284]LogWorld: Bringing up level for play took: 0.000958
+[2017.11.03-13.33.37:219][284]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Level1 0.128
+[2017.11.03-13.33.37:219][284]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.33.39:813][439]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
+[2017.11.03-13.33.39:887][439]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterContent/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1'
